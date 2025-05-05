@@ -86,7 +86,7 @@ You can find us on the following platforms:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![](https://komarev.com/ghpvc/?username=meyvnstudio)
+![](https://komarev.com/ghpvc/?username=gilberthappi)
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=meyvnstudio&show_icons=true&theme=merko" alt="GitHub Stats"/>
