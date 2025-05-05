@@ -12,16 +12,13 @@ We don’t just create websites, apps, or campaigns—we create pathways to succ
 
 ### 🚀 Meet the Team
 
-- **Victor** - MD & Product Lead [@iwmvictor](https://github.com/iwmvictor)
-- **Happi** - Developer [@happigilbert](https://github.com/happigilbert)
-- **Dking** - Developer [@mdking](https://github.com/mdking)
-- **N Ivan** - Developer [@nivan](https://github.com/nivan)
-- **Nivan** - Designer
-- **Mdking** - Designer
-- **Iwmvictor** - Designer
+- **Victor** - MD & Product Lead    [@iwmvictor](https://github.com/iwmvictor)
+- **Nuru**   - Developer            [@nururw](https://github.com/happigilbert)
+- **Dking**  - Designer & Developer [@mdking](https://github.com/mdking)
+- **N Ivan** - Designer & Developer [@nivan](https://github.com/nivan)
 
 ### 💼 Other Team Members:
-- **Josh** - Marketing Manager
+- **Josh**    - Marketing Manager
 - **Rhoades** - Customer Services
 
 ---
@@ -30,11 +27,12 @@ We don’t just create websites, apps, or campaigns—we create pathways to succ
 
 We offer full-stack development with specialized expertise in the following:
 
-- **Web Development**: React.js, Next.js, Node.js, Django, Express.js, Angular, etc.
-- **Mobile Development**: React Native, Flutter
-- **Cloud Services**: AWS, Microsoft Azure
-- **Machine Learning**: (Fill with specific ML tech)
-- **UI/UX Design**: Custom web and app design solutions
+- **Web Development**: React.js, Next.js, Angular, Svelte, Tailwind CSS, GraphQL, GIS, Jamstack
+- **Mobile Development**: React Native, Flutter, SwiftUI, Kotlin
+- **Backend Development**: Node.js, Django, Spring Boot, Ruby on Rails, Go, Firebase
+- **Cloud Services**: AWS, Microsoft Azure, Google Cloud Platform, Kubernetes
+- **Machine Learning**: TensorFlow & PyTorch, GPT, AutoML,
+- **UI/UX Design**: Figma, Web Animation, Framer, Voice UI, Adobe XD, Canva, Notion
 
 ---
 
@@ -65,7 +63,6 @@ You can find us on the following platforms:
 - **Website**: [Meyvn](https://meyvn.vercel.app)
 - **Instagram**: [@meyvnagency](https://instagram.com/meyvnagency)
 - **X (Twitter)**: [@meyvnagency](https://x.com/meyvnagency)
-- **LinkedIn**: (Add your LinkedIn URL)
 
 ---
 
@@ -78,10 +75,29 @@ You can find us on the following platforms:
 
 ### 💻 GitHub Stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=meyvn-agency&show_icons=true&theme=merko" alt="Meyvn Agency GitHub Stats"/>
+</a>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyvn-agency&layout=compact" alt="Meyvn Agency Top Languages"/>
+#### Quick OverView
 
+![Role](https://img.shields.io/badge/Company-Software%20Development-green?style=flat-square&cacheSeconds=60)
+
+[![wakatime](https://wakatime.com/badge/user/018b0579-a66b-4c23-87a6-10c5a81368cb.svg)](https://wakatime.com/@018b0579-a66b-4c23-87a6-10c5a81368cb)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=iwmvictor)
+
+
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=meyvnstudio&show_icons=true&theme=merko" alt="GitHub Stats"/>
+
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyvnstudio&layout=compact" alt="Top Languages"/>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=meyvnstudio&show_icons=true&theme=merko"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyvnstudio&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Evaristekanova&show_icons=true"/> -->
+
+---
 ---
 
 ### 🤝 Partner With Us
