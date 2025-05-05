@@ -93,8 +93,6 @@ You can find us on the following platforms:
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyvnstudio&layout=compact" alt="Top Languages"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=meyvnstudio&show_icons=true&theme=merko"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyvnstudio&layout=compact"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Evaristekanova&show_icons=true"/> -->
 
 ---
