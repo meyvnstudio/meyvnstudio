@@ -83,9 +83,6 @@ You can find us on the following platforms:
 
 [![wakatime](https://wakatime.com/badge/user/018b0579-a66b-4c23-87a6-10c5a81368cb.svg)](https://wakatime.com/@018b0579-a66b-4c23-87a6-10c5a81368cb)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 ![](https://komarev.com/ghpvc/?username=gilberthappi)
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=meyvnstudio&theme=gotham" alt="meyvn" />
