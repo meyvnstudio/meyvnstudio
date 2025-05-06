@@ -93,7 +93,8 @@ You can find us on the following platforms:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Evaristekanova&show_icons=true"/> -->
 
----
+<br />
+<br />
 ---
 
 ### 🤝 Partner With Us
